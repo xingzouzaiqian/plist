@@ -1,0 +1,19 @@
+{
+    "app": [
+        {
+            "AppName": "Mobile",
+            "MB": "13675818481",
+            "PR": "COSCO",
+            "SY": "COSCO",
+            "de": "sdsjjdd",
+            "na": "ddcood"
+        }
+    ],
+    "comm": {
+        "Hos": "CESBDEV02",
+        "ho": "99",
+        "secure": "N"
+    },
+    "URL": "/pass/xxxxx",
+    "DATA": "KEY=VALUE&KEY=VALUE"
+}
